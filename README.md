@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kieranross02
 -  I’m interested in Electrical and Computer Engineering, Machine learning, Hardware Design, Programming, etc.
--  I’m currently in 2nd Year of Electrical Engineering at UBC
+-  I’m currently in my 2nd Year of Electrical Engineering at UBC
 -  I’m looking for a Summer Internship
 - 📫 How to reach me kieranross5451@gmail.com
 
